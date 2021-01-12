@@ -1,7 +1,7 @@
 # PROMOS
-Aditya Yulis Kusdiyanto (19.11.2795)
-S1 Informatika 04
-Promos adalah program yang berfungsi untuk menambahkan item ke sebuah keranjang digital
+- Aditya Yulis Kusdiyanto (19.11.2795)
+- S1 Informatika 04
+- Promos adalah program yang berfungsi untuk menambahkan item ke sebuah keranjang digital
 
 ## Scope of Functions
 - Menambahkan barang dengan teknik MVC 
@@ -13,7 +13,7 @@ Promos adalah program yang berfungsi untuk menambahkan item ke sebuah keranjang 
 - fungsi MainWindowController.cs digunakan untuk melakukan beberapa operasi. Seperti menambahkan item dan voucher, menghapus item dan voucher, lalu untuk mendapatkan data list dari item yang dibeli dan voucher yang digunakan.
 - model yang digunakan yaitu model item untuk makanan atau minuman, model keranjangBelanja untuk menaruh pembelian, model payment untuk mengurusi total harga beli, dan model Voucher untuk daftar vouchernya
  
-#### Alur Program :
+### Alur Program :
 - Menu yang ditawarkan : 
 
  ```c#
